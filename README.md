@@ -1,3 +1,4 @@
+# Greenfield-Project
 Can't Stop app
 
 This app will be based on the board game called "Can't Stop".
@@ -12,11 +13,9 @@ If they get their colored markers to the last space of the track (the numbered s
 Only one marker can make it to the end of each number.
 The game ends when one player wins three numbers.
 
-Todo:
-Database collections: 
-  -create users for players to log in so they can play their games, tracking which games they're playing and which turn they're on, and stats for each player to track how many games they've won.
-  -create a db of current games being played with where each of the colored markers are on the board, and whose turn it is.
-Other:
-  -roll dice and show possible combos.
-  -mark where the temporary markers are.
-  -some way for players to choose to stop their turn or keep playing."# Greenfield-Project" 
+##Todo
+* Create user db for players to log in so they can play their games, tracking which games they're playing and which turn they're on, and stats for each player to track how many games they've won.
+* Create a db of current games being played with where each of the colored markers are on the board, and whose turn it is.
+* Create a page to roll dice and show possible combos.
+* Create a page that marks where the temporary markers are.
+* Make sure players can  choose to stop their turn or keep playing.
